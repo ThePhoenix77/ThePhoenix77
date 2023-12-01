@@ -24,10 +24,13 @@ Curious to know more? Explore my journey on [LinkedIn](https://www.linkedin.com/
 
 ## Skills
 
-- **Programming Languages:** C/ C++/ Java
-- **Web Development:** ...
-- **UI/UX Design:** Canva
-- **Problem Solving:** [LeetCode](https://leetcode.com/tahaboussaden7322/)
+- **Programming Languages:**
+    *C
+    *C++
+    *Java
+- **Problem Solving:**
+    *[LeetCode](https://leetcode.com/tahaboussaden7322/)
+    *[CodeForces](https://codeforces.com/profile/tn_ix)
 
 
 ## Contact
