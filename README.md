@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Hello there! I'm Taha, a passionate student hailing from the enchanting land of Morocco, pursuing my education at [1337 Khouribga]
-(https://1337.ma/en/khouribga/). 
+Hello there! I'm Taha, a passionate student hailing from the enchanting land of Morocco, pursuing my education at [1337 Khouribga](https://1337.ma/en/khouribga/). 
 
 My world revolves around the thrill of coding, the fascination of learning new languages, the excitement of 
 competitive programming, and the tranquility of fishing. C++ is my language of choice when it comes to crafting digital wonders. 
