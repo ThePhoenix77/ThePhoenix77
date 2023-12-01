@@ -25,12 +25,15 @@ Curious to know more? Explore my journey on [LinkedIn](https://www.linkedin.com/
 ## Skills
 
 - **Programming Languages:**
-    *C
-    *C++
-    *Java
+  
+    *   C
+    *   C++
+    *   Java
+      
 - **Problem Solving:**
-    *[LeetCode](https://leetcode.com/tahaboussaden7322/)
-    *[CodeForces](https://codeforces.com/profile/tn_ix)
+  
+    *   [LeetCode](https://leetcode.com/tahaboussaden7322/)
+    *   [CodeForces](https://codeforces.com/profile/tn_ix)
 
 
 ## Contact
