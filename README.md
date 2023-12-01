@@ -15,10 +15,11 @@ Curious to know more? Explore my journey on [LinkedIn](https://www.linkedin.com/
 
 # Welcome to my digital space!
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ThePhoenix77)  
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThePhoenix77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/taha-boussaden-139100252/)  
 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ThePhoenix77)  
 
 
 ## Skills
