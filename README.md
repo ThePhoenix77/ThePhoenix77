@@ -20,7 +20,7 @@ Curious to know more? Explore my journey on [LinkedIn](https://www.linkedin.com/
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ThePhoenix77)  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThePhoenix77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/taha-boussaden-139100252/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='github' height='40'>](https://leetcode.com/tahaboussaden7322/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='github' height='40'>](https://codeforces.com/profile/tn_ix) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThePhoenix77)  [<img src='https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505' alt='linkedin' height='40'>](https://www.linkedin.com/in/taha-boussaden-139100252/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='github' height='40'>](https://leetcode.com/tahaboussaden7322/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='github' height='40'>](https://codeforces.com/profile/tn_ix) 
 
 
 
