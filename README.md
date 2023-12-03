@@ -29,7 +29,7 @@ Curious to know more? Explore my journey on [LinkedIn](https://www.linkedin.com/
 
 - **Programming Languages:**
   
-    *   C
+    *   C <img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     *   C++
     *   Java
       
