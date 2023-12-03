@@ -1,5 +1,5 @@
 
-[<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhzczRoenozaXYxamdseXQ3M2dxMXhzeHVjOXNuY3R0bmsyOW9sbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41JU9pUyosHzWyuQ/giphy.gif'>]
+[<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhzczRoenozaXYxamdseXQ3M2dxMXhzeHVjOXNuY3R0bmsyOW9sbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41JU9pUyosHzWyuQ/giphy.gif' height='70'>]
 ### Hi there 👋
 
 Hello there! I'm Taha, a passionate student hailing from the enchanting land of Morocco, pursuing my education at [1337 Khouribga](https://1337.ma/en/khouribga/). 
