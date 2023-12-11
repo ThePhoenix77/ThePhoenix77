@@ -56,6 +56,6 @@ or connect with me on [LinkedIn](https://www.linkedin.com/in/taha-boussaden-1391
 
 I am open to exciting opportunities and collaborations. If you have a project or position that aligns with my skills and interests, let's talk!
 
-[Resume/CV](link-to-resume)
+[Resume/CV](CV_TAHA_BOUSSADEN)
 
 Thank you for visiting! I hope you find my GitHub page intriguing and informative. Feel free to explore, and don't hesitate to reach out. Cheers to the journey of continuous learning and growth! 🚀
