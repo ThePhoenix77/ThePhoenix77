@@ -1,4 +1,6 @@
 
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhzczRoenozaXYxamdseXQ3M2dxMXhzeHVjOXNuY3R0bmsyOW9sbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41JU9pUyosHzWyuQ/giphy.gif' height='400'>
+
 ### Hi there 👋
 
 Hello there! I'm Taha, a passionate student hailing from the enchanting land of Morocco, pursuing my education at [1337 Khouribga](https://1337.ma/en/khouribga/). 
@@ -53,6 +55,5 @@ I am open to exciting opportunities and collaborations. If you have a project or
 Thank you for visiting! I hope you find my GitHub page intriguing and informative. Feel free to explore, and don't hesitate to reach out. Cheers to the journey of continuous learning and growth! 🚀
 
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhzczRoenozaXYxamdseXQ3M2dxMXhzeHVjOXNuY3R0bmsyOW9sbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41JU9pUyosHzWyuQ/giphy.gif' height='400'>
 
 
