@@ -1,6 +1,4 @@
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhzczRoenozaXYxamdseXQ3M2dxMXhzeHVjOXNuY3R0bmsyOW9sbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41JU9pUyosHzWyuQ/giphy.gif' height='400'>
-
 ### Hi there 👋
 
 Hello there! I'm Taha, a passionate student hailing from the enchanting land of Morocco, pursuing my education at [1337 Khouribga](https://1337.ma/en/khouribga/). 
@@ -18,11 +16,6 @@ Curious to know more? Explore my journey on [LinkedIn](https://www.linkedin.com/
 # Welcome to my digital space!
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ThePhoenix77)  
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThePhoenix77)  [<img src='![image](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)' alt='linkedin' height='40'>](https://www.linkedin.com/in/taha-boussaden-139100252/)                                                                                   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='github' height='40'>](https://leetcode.com/tahaboussaden7322/)                                                                                               [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='github' height='40'>](https://codeforces.com/profile/tn_ix) 
-
-
 
 
 ## Skills
@@ -58,3 +51,8 @@ I am open to exciting opportunities and collaborations. If you have a project or
 [Resume/CV](CV_TAHA_BOUSSADEN.pdf)
 
 Thank you for visiting! I hope you find my GitHub page intriguing and informative. Feel free to explore, and don't hesitate to reach out. Cheers to the journey of continuous learning and growth! 🚀
+
+
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhzczRoenozaXYxamdseXQ3M2dxMXhzeHVjOXNuY3R0bmsyOW9sbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41JU9pUyosHzWyuQ/giphy.gif' height='400'>
+
+
