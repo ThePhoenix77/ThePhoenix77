@@ -30,6 +30,9 @@ Curious to know more? Explore my journey on [LinkedIn](https://www.linkedin.com/
 
 ## Skills
 
+<br>
+
+
 - **Programming Languages:**
 
 <p align="left">  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -38,7 +41,9 @@ Curious to know more? Explore my journey on [LinkedIn](https://www.linkedin.com/
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-</br>
+
+<br>
+
 - **Software and Tools:**
   <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>     </a>
@@ -47,13 +52,16 @@ Curious to know more? Explore my journey on [LinkedIn](https://www.linkedin.com/
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
   <a href="https:www.code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/> </a></p>
 
-      
+
+<br>
+
 - **Problem Solving:**
   
     *   [LeetCode](https://leetcode.com/tahaboussaden7322/)
     *   [CodeForces](https://codeforces.com/profile/tn_ix)
     *   [CodinGame](https://www.codingame.com/profile/2e267f8133343a24e57a0da32e5550544483085)
 
+<br>
 
 ## Contact
 
