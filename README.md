@@ -19,6 +19,11 @@ Curious to know more? Explore my journey on [LinkedIn](https://www.linkedin.com/
 
 
 # Welcome to my digital space!
+<p align="left">
+<a href="https://twitter.com/tn_ix77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tn_ix77" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/taha boussaden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Taha Boussaden" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tahaboussaden7322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="boussaden taha" height="30" width="40" /></a>
+</p>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ThePhoenix77)  
 
