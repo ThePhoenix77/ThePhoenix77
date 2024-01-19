@@ -25,8 +25,12 @@ Curious to know more? Explore my journey on [LinkedIn](https://www.linkedin.com/
 <a href="https://www.leetcode.com/tahaboussaden7322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="boussaden taha" height="30" width="40" /></a>
 </p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ThePhoenix77)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThePhoenix77&show_icons=true&locale=en&layout=compact" alt="thephoenix77" /></p>
 
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ThePhoenix77) 
+
+
+<br>
 
 ## Skills
 
@@ -62,6 +66,7 @@ Curious to know more? Explore my journey on [LinkedIn](https://www.linkedin.com/
     *   [CodinGame](https://www.codingame.com/profile/2e267f8133343a24e57a0da32e5550544483085)
 
 <br>
+
 
 ## Contact
 
