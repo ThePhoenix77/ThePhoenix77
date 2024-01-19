@@ -44,6 +44,7 @@ Curious to know more? Explore my journey on [LinkedIn](https://www.linkedin.com/
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>     </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> </a>
   <a href="https:www.code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code" width="40" height="40"/> </a></p>
 
       
@@ -51,6 +52,7 @@ Curious to know more? Explore my journey on [LinkedIn](https://www.linkedin.com/
   
     *   [LeetCode](https://leetcode.com/tahaboussaden7322/)
     *   [CodeForces](https://codeforces.com/profile/tn_ix)
+    *   [CodinGame](https://www.codingame.com/profile/2e267f8133343a24e57a0da32e5550544483085)
 
 
 ## Contact
