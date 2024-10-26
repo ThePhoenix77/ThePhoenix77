@@ -11,4 +11,3 @@ Curious to know more? Explore my journey on [LinkedIn](https://www.linkedin.com/
 
 I am open to exciting opportunities and collaborations. If you have a project or position that aligns with my skills and interests, let's talk!
 
-[Resume/CV](CV_TAHA_BOUSSADEN.pdf)
