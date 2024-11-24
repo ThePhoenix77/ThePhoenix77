@@ -1,8 +1,6 @@
-Hi, I'm **Taha**💫
+Hi, I'm **Taha**
 
-I’m a **Computer Science graduate** from the enchanting lands of **Morocco**, where the sun sets over the mountains 
-
-and meets the sea.
+I’m a **Computer Science graduate** from the enchanting lands of **Morocco**, where the sun sets over the mountains and meets the sea.
 
 Passionate about solving complex problems, where **C++** is my go-to when it comes to crafting digital wonders.
 
