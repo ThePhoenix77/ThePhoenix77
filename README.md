@@ -1,8 +1,7 @@
 <p align="center">
-  <samp>
-    <a href="https://tahaboussaden.me/blog">blog</a> .
-    <a href="https://x.com/sadenbouuu">tweets</a> .
-    <a href="mailto:contact@tahaboussaden.me">contact</a>
-    <!-- <a href="https://discord.com/users/762316883810189353">discord</a>  -->
-  </samp>
+  <a href="https://tahaboussaden.me/blog"><img src="https://img.shields.io/badge/blog-blue" alt="blog" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/sadenbouuu"><img src="https://img.shields.io/badge/tweets-blue" alt="tweets" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:contact@tahaboussaden.me"><img src="https://img.shields.io/badge/contact-blue" alt="contact" /></a>
 </p>
